@@ -1,21 +1,15 @@
 {
   "heroes": [
     {
-      "id": "5c1399ed-b6f0-42e3-84ac-b3764b7ad3da",
+      "id": "d908a826-a2ad-462d-a733-4dd6bddb7de7",
+      "name": "алексей",
+      "description": "dfdsfsdf",
+      "element": "water"
+    },
+    {
+      "id": "3220f91c-084f-4335-bc80-64ac6938b837",
       "name": "Tzar_11",
-      "description": "fdfd",
-      "element": "fire"
-    },
-    {
-      "id": "bbdde692-2aca-43bd-8841-7ae6084d1eaa",
-      "name": "dsdsd",
-      "description": "sds",
-      "element": "fire"
-    },
-    {
-      "id": "14901ca5-564d-4b66-8a57-d9cb62403d60",
-      "name": "dsdsdsds",
-      "description": "dsdsdd",
+      "description": "gfsagfsdf",
       "element": "earth"
     }
   ],

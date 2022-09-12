@@ -2,6 +2,7 @@
   "name": "hero_admin_panel",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AlexeyKirilin.github.io/heroes",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -41,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "classnames": "^2.3.1"
+    "classnames": "^2.3.1",
+    "gh-pages": "^4.0.0"
   }
 }
