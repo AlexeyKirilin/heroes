@@ -1,1 +1,5 @@
-This is test project with hero admin panel!
+Проект "hero admin panel".
+Технологии проекта:
+- React
+- Redux Toolkit
+- Redux thunk
